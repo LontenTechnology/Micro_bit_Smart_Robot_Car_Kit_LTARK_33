@@ -3,7 +3,7 @@
 If you are interested in source code and have the ability to develop it, you can refer to this URL:  
 
 https://github.com/LontenTechnology/Micro_bit_Smart_Robot_Car_Kit_LTARK_33
-
+<img src='DSC_0050.png' width='100%'/>
 
 ### Download
 
